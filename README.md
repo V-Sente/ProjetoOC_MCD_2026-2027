@@ -25,7 +25,7 @@ pip install numpy pandas
 
 O ficheiro `ProjetoOC.py` e o dataset `clean_dataset.csv` devem encontrar-se na mesma pasta.
 
-Executar o projeto no terminal com:
+Executar o projeto no terminal, na pasta em que os ficheiros se encontram, com:
 
 ```bash
 python ProjetoOC.py
